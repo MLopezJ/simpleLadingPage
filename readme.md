@@ -12,3 +12,6 @@ diverse information, as the coverpage of the book, a summary of the first chapte
 * Staging: The branch how is running on production 
 * Dev: The development environment
 * OriginalApp: Is the Erin app without Mauro's modifications
+
+## Hosting
+The app is hosting in heroku and it can be accesced in the following direction: https://erintest.herokuapp.com
